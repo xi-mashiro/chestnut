@@ -1,8 +1,8 @@
 # chestnut
-  2019 ABChina 雅典娜
   
 
 ## Reference
+仅作学习整理
 ### 5th place solution
     @Reference/5th
     Tanzania Challenge移动金融潜在客户预测比赛第五名方案
