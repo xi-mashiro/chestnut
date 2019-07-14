@@ -10,16 +10,16 @@
 	提供数据处理的若干种方法
 
 	Reference：
-		<a href="https://github.com/galileoSolution/5th-place-solution-Mobile-Money-and-Financial-Inclusion-in-Tanzania-Challenge" target="_blank">How I cracked a Data Science Hackathon</a>
+- [How I cracked a Data Science Hackathon](https://medium.com/analytics-vidhya/5th-place-solution-mobile-money-and-financial-inclusion-in-tanzania-challenge-16e43e4d18f8)
 
 ## Reference
-	Books:
-	- [面向机器学习的特征工程](http://fe4ml.apachecn.org/#/)
+Books:
+- [面向机器学习的特征工程](http://fe4ml.apachecn.org/#/)
 
-	Articles：
-	- [xgboost原理？ -知乎](https://www.zhihu.com/question/58883125/answer/206813653?utm_source=wechat_session&utm_medium=social&utm_oi=46841664110592)
-	- [干货|横扫Kaggle的XGBoost原理与实战](https://zhuanlan.zhihu.com/p/51682968?utm_source=wechat_session&utm_medium=social&utm_oi=682316278648279040)
-	- [xgboost原理](Reference/xgboost原理.jpg)
+Articles：
+- [xgboost原理？ -知乎](https://www.zhihu.com/question/58883125/answer/206813653?utm_source=wechat_session&utm_medium=social&utm_oi=46841664110592)
+- [干货|横扫Kaggle的XGBoost原理与实战](https://zhuanlan.zhihu.com/p/51682968?utm_source=wechat_session&utm_medium=social&utm_oi=682316278648279040)
+- [xgboost原理](Reference/xgboost原理.jpg)
 
 
 
