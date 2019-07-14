@@ -6,18 +6,22 @@
 ### 5th place solution
     @Reference/5th
     Tanzania Challenge移动金融潜在客户预测比赛第五名方案
-- [Github](https://github.com/galileoSolution/5th-place-solution-Mobile-Money-and-Financial-Inclusion-in-Tanzania-Challenge)
+- [Github链接](https://github.com/galileoSolution/5th-place-solution-Mobile-Money-and-Financial-Inclusion-in-Tanzania-Challenge)
 - [How I cracked a Data Science Hackathon](https://medium.com/analytics-vidhya/5th-place-solution-mobile-money-and-financial-inclusion-in-tanzania-challenge-16e43e4d18f8)
 
 ### data_process
     @Reference/data_process
     提供数据处理的若干种方法
-[Github](https://github.com/martin-1992/data_process)
+[Github链接](https://github.com/martin-1992/data_process)
 
 ### Rong360
 	@Reference/Rong360
 	智慧中国杯全国大数据创新应用大赛
-[Github](https://github.com/hczheng/Rong360)
+
+[Github链接](https://github.com/hczheng/Rong360)
+有两个文件比较大就没上传
+- [利用Python进行数据分析.pdf](https://github.com/hczheng/Rong360/blob/master/参考资料/利用Python进行数据分析.pdf)
+- 20170119_D.model
 
 
 ### Books:
